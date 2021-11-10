@@ -1,0 +1,12 @@
+﻿  Source.cpp
+C:\Users\Hamna Naveed\Desktop\infix to postfix(stack)\infix to postfix(stack)\Source.cpp(38,1): warning C4305: 'return': truncation from 'int' to 'char'
+C:\Users\Hamna Naveed\Desktop\infix to postfix(stack)\infix to postfix(stack)\Source.cpp(38,11): warning C4309: 'return': truncation of constant value
+C:\Users\Hamna Naveed\Desktop\infix to postfix(stack)\infix to postfix(stack)\Source.cpp(54,1): warning C4305: 'return': truncation from 'int' to 'char'
+C:\Users\Hamna Naveed\Desktop\infix to postfix(stack)\infix to postfix(stack)\Source.cpp(54,11): warning C4309: 'return': truncation of constant value
+C:\Users\Hamna Naveed\Desktop\infix to postfix(stack)\infix to postfix(stack)\Source.cpp(138,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hamna Naveed\Desktop\infix to postfix(stack)\infix to postfix(stack)\Source.cpp(149,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hamna Naveed\Desktop\infix to postfix(stack)\infix to postfix(stack)\Source.cpp(191,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hamna Naveed\Desktop\infix to postfix(stack)\infix to postfix(stack)\Source.cpp(215,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hamna Naveed\Desktop\infix to postfix(stack)\infix to postfix(stack)\Source.cpp(288,12): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Hamna Naveed\Desktop\infix to postfix(stack)\infix to postfix(stack)\Source.cpp(311,21): warning C4018: '<': signed/unsigned mismatch
+  infix to postfix(stack).vcxproj -> C:\Users\Hamna Naveed\Desktop\infix to postfix(stack)\Debug\infix to postfix(stack).exe
